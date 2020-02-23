@@ -2,6 +2,10 @@
 - Each spec is structured around an individual page, which provides us a structure to test each spec in isolation from the others.
 - Would take it a step further and additionally organize the specs into folders that group the primary data model objects in pages
 
+## Strategies
+![image](..\..\assets\brian-mann\strategies.png)
+
+![image](C:\Users\balco\Documents\MyProjects\_RAD\_LCS_RaD\cypress\assert-js\cypress\assets\brian-mann\strategies.png)
 
 ## Link to Video (Brian Mann is creator of Cypress)
 - Assert(JS) 2018 - "I see your point, but...
